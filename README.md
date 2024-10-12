@@ -1,8 +1,8 @@
-# AI Spaces Frontend
+# AR Doc AI Frontend
 
 ## Overview
 
-AI Spaces Frontend is a user-friendly application designed to streamline your interaction with AI for summarization and reporting. The platform allows users to generate summaries, upload files for processing, and engage with two types of questions to enhance understanding and insights. At the end of your session, you'll receive a comprehensive report summarizing all generated questions and responses using OpenAI technology.
+AR Doc AI Frontend is a user-friendly application designed to streamline your interaction with AI for summarization and reporting. The platform allows users to generate summaries, upload files for processing, and engage with two types of questions to enhance understanding and insights. At the end of your session, you'll receive a comprehensive report summarizing all generated questions and responses using OpenAI technology.
 
 ## Features
 
